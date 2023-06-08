@@ -26,9 +26,10 @@ name = 'Aditi'
 
 length = len(name)
 
-print(name[:])
+# print(name[:])
 
-# print(len(name))
+
+
 
 
 
