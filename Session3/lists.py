@@ -28,10 +28,4 @@
 # print(friends[-3:])
 
 
-l1 = [2 , 4, 5, 2, 6 , 7]
-print(l1)
-l1.sort()
-print(l1)
-
-
 
