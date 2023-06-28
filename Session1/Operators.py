@@ -22,7 +22,7 @@
 # print(c)
 
 
-# Comparison Operators == > < >= <= !=
+# Comparison Operators, relational operators  == > < >= <= !=
 
 # d = 20
 # e = 50
